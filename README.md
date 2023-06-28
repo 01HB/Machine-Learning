@@ -7,3 +7,4 @@ The trained model achieved good accuracy on the test set. The model's performanc
 <img src="./resources/samples.png" alt="image" align="center" />
 <img src="./resources/predicted_output.png" alt="image" align="center" />
 
+- Hasan Bithto

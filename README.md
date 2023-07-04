@@ -9,14 +9,16 @@ Images were captured in various conditions to simulate real-world scenarios. The
 <p>
 The trained model achieved good accuracy on the test set. The model's performance was further evaluated using a confusion matrix, precision, recall, and F1-score. The results of the classification of different fruits were examined through several visualizations and compared with the performance of other models. Overall, the developed model achieved an excellent performance, demonstrating its potential for practical applications in the fruit industry and agricultural organizations.
 </p>
+<br>
 
 - Sample images from the dataset
 <img src="./resources/samples.png" alt="image" align="center" />
-
+<br>
 - Confusion matrix
 <img src="./resources/confusion_matrix.png" alt="image" align="center" />
-
+<br>
 - Predicted output by the model
 <img src="./resources/predicted_output.png" alt="image" align="center" />
-
-- © HB
+<br>
+<br>
+<span style="color:DodgerBlue;">© HB</span>
